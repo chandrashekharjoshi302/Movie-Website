@@ -1,5 +1,5 @@
 <h1> "Movie Website Inspired by Hotstar"  </h1>
-<img src="https://storied-swan-446925.netlify.app/images/Capture.PNG" width="400" height="200">
+<img src="https://secure-media.hotstarext.com/web-assets/prod/images/brand-logos/disney-hotstar-logo-dark.svg" width="400" height="200">
 
 <h2 style="color:Tomato;">About</h2>
 
